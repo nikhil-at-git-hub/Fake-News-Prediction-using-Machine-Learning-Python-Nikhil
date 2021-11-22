@@ -1,1 +1,4 @@
 Fake news prediction system using Machine Learning Python
+This is a machine learning model based on Logistic regression that aims to predict whether a news article is fake or real.
+A .ipynb file has been attached for refernce which contains all the code along with outputs.
+Dataset used: Fake news prediction from Kaggle(also attached in repository)
