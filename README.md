@@ -3,7 +3,7 @@ This project intends to build a machine learning system using Logistic regressio
 
 This is a machine learning model based on Logistic regression that aims to predict whether a news article is fake or real.
 A .ipynb file has been attached for refernce which contains all the code along with outputs along with comments for proper understanding.
-Dataset used: Fake news prediction from Kaggle(also attached in repository)
+Dataset used: Fake news prediction from Kaggle
 IDE : Jupyter Notebook
 
 
