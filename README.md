@@ -5,6 +5,7 @@ This is a machine learning model based on Logistic regression that aims to predi
 A .ipynb file has been attached for refernce which contains all the code along with outputs along with comments for proper understanding.
 Dataset used: Fake news prediction from Kaggle
 IDE : Jupyter Notebook
+comments included at every step for better understanding of the code.
 
 
 Logistic regression is genarraly used when the output is a binary classification. Such as TRUE or False, YES or NO, FAKE or REAL etc.
