@@ -11,5 +11,5 @@ comments included at every step for better understanding of the code.
 Logistic regression is genarraly used when the output is a binary classification. Such as TRUE or False, YES or NO, FAKE or REAL etc.
 Logistic regression is used when the variables in thw dataset are categorical and the out is a binary classification.
 
-End Notes
+
 
